@@ -1,0 +1,14 @@
+{
+  "name": "yoyo",
+  "version": "1.0.0",
+  "description": "Throw Away",
+  "main": "app.js",
+  "scripts": {
+    "test": "gogo"
+  },
+  "keywords": [
+    "IGNORE"
+  ],
+  "author": "yoyo",
+  "license": "ISC"
+}
